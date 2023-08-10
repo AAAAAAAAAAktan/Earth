@@ -1,0 +1,72 @@
+html {
+    margin: 20px;
+}
+
+body {
+    margin: 5px;
+}
+
+p {
+    font-size: 23px;
+    font-family: monospace;
+}
+
+h1 {
+    font-family: monospace;
+    font-size: 35px;
+}
+
+table {
+    font-size: 25px;
+    font-family: monospace;
+    padding: 0px;
+    border:  1px solid black;
+}
+
+header {
+    background-image: url("https://24tv.ua/resources/photos/news/202304/2296232.jpg?v=1681741273000");
+    height: 280px;
+    background-size: cover;
+    color: white;
+    text-align: center;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    background-color: white;
+    border-top:  6px solid dimgray;
+    border-bottom: 6px solid dimgray;
+}
+
+.menu-item {
+    text-decoration: none;
+    color: black;
+    font-family: monospace;
+    font-size: 23px;
+}
+
+ul {
+    font-size: 20px;
+    font-family: monospace;
+    padding: 5px;
+}
+
+h2 {
+    font-size: 20px;
+    font-family: monospace;
+    text-align: center;
+}
+
+ol {
+    font-size: 20px;
+    font-family: monospace;
+    padding: 5px;
+}
+
+footer {
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/1007/989/310/habitable-planets-wallpaper-preview.jpg");
+    height: 270px;
+    background-size: cover;
+    margin: 30PX;
+}
